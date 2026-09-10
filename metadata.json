@@ -1,0 +1,6 @@
+{
+  "name": "Katiussya Amorim - Fonoaudióloga",
+  "description": "Site dinâmico e interativo de Fonoaudiologia Integrada com Katiussya Amorim em Sinop - MT. Especialista em fala, linguagem, TEA, TDAH e deglutição.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
